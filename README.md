@@ -3,10 +3,15 @@ Katik adalah web app sederhana berbasis HTML, CSS, dan JavaScript yang memungkin
 
 🚀 Fitur Utama
 ✅ Menghitung Luas Segitiga (½ × alas × tinggi)
+
 ✅ Menghitung Keliling Segitiga (S1 + S2 + S3)
+
 ✅ Validasi input angka
+
 ✅ Tampilan responsif dan mudah digunakan
+
 ✅ Hasil muncul hanya setelah klik tombol Hitung
+
 ✅ Tombol Reset untuk mengosongkan input
 
 🧾 Struktur Folder
