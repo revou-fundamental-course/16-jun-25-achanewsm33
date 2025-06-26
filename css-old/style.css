@@ -1,0 +1,96 @@
+.main-header {
+        padding: 2rem 0;
+        align-items: center;
+        z-index: 1000;
+        box-shadow: 0.3rem 0.5rem rgba(226, 226, 226, 0.614);
+}
+
+.main-header nav button{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(43, 43, 43);
+    text-decoration: none ;
+    padding: 1rem 0;
+    margin: 1rem 5rem;
+    background-color: #eeeeee;
+    border-radius: .5rem;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card {
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+
+.card h2 {
+    color: white;
+  text-align: center;
+  background-color: #007BFF;
+  flex-direction: row;
+  padding: 2rem;
+}
+
+
+.form-segitiga{
+    display: none;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+button[type="submit"] {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+}
+
+button[type="reset"] {
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    align-self: flex-end;
+    width: 5rem;
+}
+
+.hasil {
+    margin-top: 15px;
+    font-weight: bold;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.triangle-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 250px;
+    height: auto;
+}
+
+ul{
+    list-style-type: none;
+}
